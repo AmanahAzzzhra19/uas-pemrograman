@@ -1,0 +1,18 @@
+simple/example/kataloglaptop/GenericUtility.java
+ simple.example.kataloglaptop.GenericUtility
+simple/example/kataloglaptop/FormLaptopActivity.java
+ simple.example.kataloglaptop.FormLaptopActivity
+ simple.example.kataloglaptop.FormLaptopActivity$1
+simple/example/kataloglaptop/BuildConfig.java
+ simple.example.kataloglaptop.BuildConfig
+simple/example/kataloglaptop/model/Laptop.java
+ simple.example.kataloglaptop.model.Laptop
+simple/example/kataloglaptop/SharedPreferenceUtility.java
+ simple.example.kataloglaptop.SharedPreferenceUtility
+simple/example/kataloglaptop/DaftarLaptopAdapter.java
+ simple.example.kataloglaptop.DaftarLaptopAdapter
+ simple.example.kataloglaptop.DaftarLaptopAdapter$ViewHolder
+simple/example/kataloglaptop/MainActivity.java
+ simple.example.kataloglaptop.MainActivity
+ simple.example.kataloglaptop.MainActivity$1
+ simple.example.kataloglaptop.MainActivity$2
